@@ -27,9 +27,9 @@ rm -rf $db_name-$date.sql
 #uncomment following code to enable pasting it to dropbox
 #dependecies: https://github.com/andreafabrizi/Dropbox-Uploader
 
-dropbox_uploader_path = '/root/dropbox-up/'
-echo 'It can take several minutes to upload. Please wait'
-$dropbox_uploader_path/dropbox_uploader.sh upload $backup_path/$db_name-$date.tar.gz $db_name-$date.tar.gz
+#dropbox_uploader_path = '/root/dropbox-up/'
+#echo 'It can take several minutes to upload. Please wait'
+#$dropbox_uploader_path/dropbox_uploader.sh upload $backup_path/$db_name-$date.tar.gz $db_name-$date.tar.gz
 
 
 
