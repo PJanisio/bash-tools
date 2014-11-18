@@ -1,4 +1,7 @@
 #!/bin/bash
+#https://github.com/PJanisio/bash-tools
+#--------------------------------------
+
 binary_directory = '/home/user/dir/'
 binary_name = 'bin'
 logfile = 'bin-log.txt'

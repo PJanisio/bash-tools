@@ -1,4 +1,6 @@
 #!/bin/bash
+#https://github.com/PJanisio/bash-tools
+#--------------------------------------
 #backup and tars whole directory
 
 dir_to_backup = '/var/www/user/public_html'
